@@ -1,0 +1,27 @@
+{
+  "biceps": [
+    "bar curls",
+    "dumbell curls"
+  ],
+  "chest": [
+    "bench press",
+    "flys"
+  ],
+  "shoulders": [
+    "shoulder press",
+    "side raise",
+    "standing press"
+  ],
+  "back": [
+    "pullovers",
+    "chinups"
+  ],
+  "triceps": [
+    "extensions",
+    "dips"
+  ],
+  "quads": [
+    "bar squats",
+    "dumbell squats"
+  ]
+}
